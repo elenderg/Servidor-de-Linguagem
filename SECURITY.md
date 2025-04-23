@@ -7,9 +7,8 @@ estão sendo atualmente suportadas com atualizações de segurança.
 
 | Versão  | Estágio          |
 | ------- | ------------------ |
-| CAL-4700    | Estável ✔️ |
-| SAL-1016    | Estável ✔️ |
-| CEL-1000    | Estável ✔️ |
+| alpha    | Estável ✔️ |
+
 
 
 ## Vulnerabilidades
